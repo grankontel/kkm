@@ -1,4 +1,4 @@
-#1.	Bayalé
+# 1. Bayalé
 
 An bizwen tou liv ki ka sòti aka Grankontèl maké épi menm kréyòl-la. Men davwa pa ni pon règlèman ki établi, davwa pa ni pon dokiman ki ka di ègzaktèman tout règlèman a kréyòl-la, an ka touvé mwen oblijé fè yonn pou mwen.
 
@@ -8,7 +8,7 @@ Pou mwen kréyòl maké a Grankontèl sé pou pèp Gwadloup. Pou-mwen pé asiré
 2. Fo i ni on lèsplikasyon pou chak chwa ki fèt asi règlèman a maké-la
 3. Éséyé pa fè twòp èksèpsyon
 
-#2.	Alfabé
+# 2. Alfabé
 
 Maké a kréyòl Gwadloup bazé asi on sistèm fonétik. Mi, pou chak son nou ka tann, ki jan nou ka maké-y.
 
@@ -95,7 +95,7 @@ An ka enni chouté-w ! -> An k'enn' chouté-w.
 
 Granlarèl "—" ka sèvi pou lè on moun kay palé, oben pou séparé dé pawòl adan on menm fraz.
 
-# 3.	Pa séparé gwoup modal
+# 3. Pa séparé gwoup modal
 
 Lawvwè gwoup modal-la ni plizyè mo, asiré-w yo ansanm.
 
@@ -172,6 +172,7 @@ An té k'ay Bastè (an té ka alé Bastè)
 ```
 Gadé ka i ni an frijidè la (gadé sa i ni, gadé ki biten i ni)
 ```
+
 ## 8.2.	Annou / an nou
 
 Si ou pé ranplasé épi "an mwen é vou" sé "an nou" sinon, sé "annou"
@@ -184,7 +185,7 @@ Pati an nou (Pati an mwen é vou)
 Annou pati
 ```
 
-#9.	Posésyon
+# 9. Posésyon
 
 Nou ka mèt tilarèl adan posésyon.
 
