@@ -212,4 +212,13 @@ Nou *pa ka* mèt tilarèl adan posésyon, davwa Gwadloup ni on ti mo ki la pou l
 | ta-zòt   | ta-zòt-la            | ta-zòt-lasa   |
 | ta-yo    | ta-yo-la             | ta-yo-lasa    |
 
+# 10 Pwonom endirèk
+
+* ban-mwen
+* ba-w
+* ba-y
+* ban-nou
+* ba-zòt
+* ba-yo
+
 
