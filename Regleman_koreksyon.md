@@ -187,7 +187,7 @@ Annou pati
 
 # 9. Posésyon
 
-Nou ka mèt tilarèl adan posésyon.
+Nou *pa ka* mèt tilarèl adan posésyon, davwa Gwadloup ni on ti mo ki la pou lyanné non-la é détèwminan a-y, kidonk ou pa bouzwen tilarèl.
 
 ## 9.1.	Adjèktif
 
