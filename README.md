@@ -2,6 +2,9 @@
 
 Règlèman pou sav kijan nou ka korijé kréyòl aka Grankontèl.
 
+|docs|
+
+
 ## Kontribisyon
 
 Nou ké byen kontan wousouvwè "pull request". Si janmé ou vwè ni on gwo pwoblèm, kréyé on "issue" prèmyé pou kozé asi sa ou ka vwè i mérité chanjé.
