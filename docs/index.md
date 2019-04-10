@@ -19,4 +19,3 @@ Pou mwen kréyòl maké a Grankontèl sé pou pèp Gwadloup. Pou-mwen pé asiré
 
 
 
-

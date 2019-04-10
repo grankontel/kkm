@@ -17,7 +17,7 @@ Granlarèl "—" ka sèvi pou lè on moun kay palé, oben pou séparé dé pawò
 
 Lawvwè gwoup modal-la ni plizyè mo, asiré-w yo ansanm.
 
-Paègzanp, sa pa bon
+Kontèl, sa pa bon
 
 |  -        |
 |       ---:|
