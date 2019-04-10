@@ -36,7 +36,7 @@ Pati an-nou (Pati an mwen é vou)
 Annou pati
 ```
 
-## 6.3 "Manman mwen" oben "Manm'an-mwen"
+## 6.3 "Manman mwen" oben "Manm'an-mwen" ?
 
 Davwa nou chwazi maké sé pwonon-la on jan, nou ka rèsté adan menm larèl-la. Kidonk nou ka maké
 
@@ -49,5 +49,16 @@ Davwa nou chwazi maké sé pwonon-la on jan, nou ka rèsté adan menm larèl-la.
 | Manm'an-zòt     | Pap'a-zòt   |
 | Manm'an-yo      | Pap'a-yo    |
 
+## 6.4 "pon" oben "p'on" ?
+
+Sé "pa on" ki pitité-y kidonk, maké "p'on" valab, men pou senplifyé, nou toujou ka maké **"pon"**. Sé menm prensip pou **kon**.
+
+Dépawfwa ou pé ka tann son on ka trenné, kon adan :
+
+```
+...kon-on balyé adan on lanmwa !
+```
+
+A moman-lasa nou ka maké **kon-on** é **pon-on**.
 
 
