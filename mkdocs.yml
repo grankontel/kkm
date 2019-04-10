@@ -1,8 +1,17 @@
 site_name: Korijé Kréyòl Maké
+repo_url: https://github.com/grankontel/kkm
 theme: readthedocs
+markdown_extensions:
+    - smarty
+    - toc:
+        permalink: True
+    - sane_lists
 
 nav:
     - 'Bayalé': 'index.md'
+    - 'Alfabé': 'alfabe.md'
+    - 'Tipografi': 'tipografi.md'
+    - 'Mo lagliyé': 'mo_lagliye.md'
     - 'Litani a moun ki la': 'litani.md'
-    - 'Kilès pou maké ?': 'koreksyon.md'
+    - 'Mo ki mélan': 'koreksyon.md'
     - 'Posésyon é Pwonom': 'posesyon.md'

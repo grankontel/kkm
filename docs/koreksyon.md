@@ -1,6 +1,6 @@
-# 8. Kilès pou maké ?
+# 6. Kilès pou maké ?
 
-## 8.1. kay ka i
+## 6.1. "kay" oben "ka i" ?
 
 1/ Si ou ka palé dè wòch oben zékal a pwason sé **"kay"**
 
@@ -15,7 +15,7 @@ Gadé ka i ni an frijidè la (gadé sa i ni, gadé ki biten i ni)
 ```
 
 
-## 8.2.	Annou / an-nou
+## 6.2.	"Annou" oben "an-nou" ?
 
 Si ou pé ranplasé épi "an mwen é vou" sé "an-nou" sinon, sé "annou"
 
