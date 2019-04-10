@@ -1,2 +1,8 @@
 site_name: Korijé Kréyòl Maké
 theme: readthedocs
+
+nav:
+    - 'Bayalé': 'index.md'
+    - 'Litani a moun ki la': 'litani.md'
+    - 'Kilès pou maké ?': 'koreksyon.md'
+    - 'Posésyon é Pwonom': 'posesyon.md'
