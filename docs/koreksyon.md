@@ -9,10 +9,19 @@
 An té kay Bastè (an té ka alé Bastè)
 ```
 
-3/ Si ou pé ranplasé épi "kibiten i"/ "kibiten ki" oben "sa i", sé **"ka i"**
+3/ Lè sé on biten ki toupré fèt, nou ka maké **"kay"** (mo-la sa pitité adan "ka alé" osi, menmsi sa pa ka parèt. Kivédi ni moun ma maké "k'ay" men nou désidé nou ka woté apòstwòf-la pou tala osi).
+
+```
+An té kay pati (an té kay pou pati)
+```
+
+
+
+4/ Si ou pé ranplasé épi "kibiten i"/ "kibiten ki" oben "sa i", sé **"ka i"**
 ```
 Gadé ka i ni an frijidè la (gadé sa i ni, gadé ki biten i ni)
 ```
+
 
 
 ## 6.2.	"Annou" oben "an-nou" ?
@@ -26,4 +35,30 @@ Pati an-nou (Pati an mwen é vou)
 ```
 Annou pati
 ```
+
+## 6.3 "Manman mwen" oben "Manm'an-mwen" ?
+
+Davwa nou chwazi maké sé pwonon-la on jan, nou ka rèsté adan menm larèl-la. Kidonk nou ka maké
+
+| Manman          | Papa        |
+|-----------------|-------------|
+| Manm'an-mwen    | Pap'an-mwen |
+| Manm'an-w       | Pap'a-w     |
+| Manm'an-y       | Pap'a-y     |
+| Manm'an-nou     | Pap'an-nou  |
+| Manm'an-zòt     | Pap'a-zòt   |
+| Manm'an-yo      | Pap'a-yo    |
+
+## 6.4 "pon" oben "p'on" ?
+
+Sé "pa on" ki pitité-y kidonk, maké "p'on" valab, men pou senplifyé, nou toujou ka maké **"pon"**. Sé menm prensip pou **kon**.
+
+Dépawfwa ou pé ka tann son on ka trenné, kon adan :
+
+```
+...kon-on balyé adan on lanmwa !
+```
+
+A moman-lasa nou ka maké **kon-on** é **pon-on**.
+
 

@@ -17,30 +17,19 @@ Granlarèl "—" ka sèvi pou lè on moun kay palé, oben pou séparé dé pawò
 
 Lawvwè gwoup modal-la ni plizyè mo, asiré-w yo ansanm.
 
-Paègzanp, sa pa bon
+Kontèl, sa pa bon
 
-|  -        |
-|       ---:|
-| an té ni 
-pou ay Bastè. |
+![](images/gwoup_modal_01.png)
 
 Vométan ou maké 
 
 
-|  -        |
-|       ---:|
-| an té ni pou
-ay Bastè. |
+![](images/gwoup_modal_02.png)
 
 
 Oben
 
-|  -        |
-|       ---:|
-| an 
-té ni pou ay Bastè. |
-an
-té ni pou ay Bastè.
+![](images/gwoup_modal_03.png)
 
 
 Kidonk antrè chak mo a gwoup modal, fo ou mèt on èspas enséparab ( [alt] + [baw èspas]).
