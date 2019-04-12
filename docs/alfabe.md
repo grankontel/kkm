@@ -15,7 +15,7 @@ Maké a kréyòl Gwadloup bazé asi on sistèm fonétik. Mi, pou chak son nou ka
 | **[ɛ̃]**             | en   | En       | zendyen, pen       |
 | **[f]**             | f    | F        | fòs, foumi         |
 | **[g]**             | g    | G        | gouyav, gal        |
-| **[ɲ]**             | gn   | Gn       | pengn, llankongni  |
+| **[ɲ]**             | gn   | Gn       | pengn, lankongni   |
 | **[ʤ]**             | gy   | Gy       | gyòk, gyoup        |
 | **[h]**             | h    | H        | hanni, haché       |
 | **[i]**             | i    | I        | initil, bisikèt    |
@@ -25,7 +25,7 @@ Maké a kréyòl Gwadloup bazé asi on sistèm fonétik. Mi, pou chak son nou ka
 | **[l]**             | l    | L        | lélé, lonè         |
 | **[m]**             | m    | M        | masko, milé        |
 | **[n]**             | n    | N        | nas, nivo          |
-| **[ɳ]**             | ng   | Ng       | pengn, lankongni   |
+| **[ɳ]**             | ng   | Ng       | zingzing           |
 | **[o]**             | o    | O        | loto, liméwo       |
 | **[ɔ]**             | ò    | Ò        | sinobòl, bòskaf    |
 | **[ɔ̃]**             | on   | On       | zonyon, laponp     |
