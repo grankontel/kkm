@@ -19,7 +19,7 @@ An té kay pati (an té kay pou pati)
 
 4/ Si ou pé ranplasé épi "kibiten i"/ "kibiten ki" oben "sa i", sé **"ka i"**
 ```
-Gadé ka i ni an frijidè la (gadé sa i ni, gadé ki biten i ni)
+Gadé ka i ni an frijidè la (gadé sa i ni, gadé kibiten i ni)
 ```
 
 
