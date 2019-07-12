@@ -1,4 +1,4 @@
-# 5. Litani a moun ki la
+# 4. Litani a moun ki la
 
 Sé toujou "mwen" prèmyé.
 

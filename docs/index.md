@@ -16,8 +16,9 @@ Pou mwen, kréyòl maké a Grankontèl sé pou pèp Gwadloup. Pou-mwen pé asir�
 4. [Litani a moun](litani.md)
 5. [Mo ki mélan](koreksyon.md)
 6. [Posésyon é pwonom](posesyon.md)
-7. [Kijan ou pé pawtisipé](kontribisyon.md)
-8. [Mèsi](mesi.md)
+7. [Tilarèl](tilarel.md)
+8. [Kijan ou pé pawtisipé](kontribisyon.md)
+9. [Mèsi](mesi.md)
 
 
 ![Licence Creative Commons CC-by-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International")
