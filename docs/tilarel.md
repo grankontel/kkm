@@ -53,6 +53,14 @@ Nou ma maké :
 * noutout
 * yotout
 
+### Rajouté "wou"
+
+Lawvwè nou ka rajouté wou douvan vèwb lawvwè on aksyon ka fèt on dézyèm fwa, nou pa ka mèt tilarèl.
+
+* I baré-y, i woubaré-y
+* I wouspété, i wouwouspété
+* I varé, i wouvaré
+* ...
 
 ### "La" pa ka toujou ni on tilarèl douvan-y
 
