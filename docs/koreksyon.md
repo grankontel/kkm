@@ -1,6 +1,6 @@
-# 6. Kilès pou maké ?
+# 5. Kilès pou maké ?
 
-## 6.1. "kay" oben "ka i" ?
+## 5.1. "kay" oben "ka i" ?
 
 1/ Si ou ka palé dè wòch oben zékal a pwason sé **"kay"**
 
@@ -24,7 +24,7 @@ Gadé ka i ni an frijidè la (gadé sa i ni, gadé kibiten i ni)
 
 
 
-## 6.2.	"Annou" oben "an-nou" ?
+## 5.2.	"Annou" oben "an-nou" ?
 
 Si ou pé ranplasé épi "an mwen é vou" sé "an-nou" sinon, sé "annou"
 
@@ -36,7 +36,7 @@ Pati an-nou (Pati an mwen é vou)
 Annou pati
 ```
 
-## 6.3 "Manman mwen" oben "Manm'an-mwen" ?
+## 5.3 "Manman mwen" oben "Manm'an-mwen" ?
 
 Davwa nou chwazi maké sé pwonon-la on jan, nou ka rèsté adan menm larèl-la. Kidonk nou ka maké
 
@@ -49,7 +49,7 @@ Davwa nou chwazi maké sé pwonon-la on jan, nou ka rèsté adan menm larèl-la.
 | Manm'an-zòt     | Pap'a-zòt   |
 | Manm'an-yo      | Pap'a-yo    |
 
-## 6.4 "pon" oben "p'on" ?
+## 5.4 "pon" oben "p'on" ?
 
 Sé "pa on" ki pitité-y kidonk, maké "p'on" valab, men pou senplifyé, nou toujou ka maké **"pon"**. Sé menm prensip pou **kon**.
 

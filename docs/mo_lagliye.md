@@ -1,18 +1,18 @@
-# 4. Mo ki lagliyé
+# 3. Mo ki lagliyé
 
-## 4.1 Lokalizasyon, onsèl mo
+## 3.1 Lokalizasyon, onsèl mo
 
 ```
 Anho, anba, andidan, akoté, isidan, kotésit...
 ```
 
-# 4.2 Molakòl, onsèl mo
+# 3.2 Molakòl, onsèl mo
 
 ```
 Magrésa, souvantfwa, dabòpouyonn, anfinaldèkont...
 ```
 
-# 4.3 Mo pou kèsyon ka fè yonn
+# 3.3 Mo pou kèsyon ka fè yonn
 
 ```
 Kibiten ..? Kijan ..? Kimoun ..?

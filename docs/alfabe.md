@@ -1,4 +1,4 @@
-# 2. Alfabé
+# 1. Alfabé
 
 Maké a kréyòl Gwadloup bazé asi on sistèm fonétik. Mi, pou chak son nou ka tann, ki jan nou ka maké-y.
 
@@ -45,7 +45,7 @@ Maké a kréyòl Gwadloup bazé asi on sistèm fonétik. Mi, pou chak son nou ka
 Lèt ki an italik, sé lèt nou pa ka gyè sèvi èvè-yo.
 
 
-## 2.1. Alfabé laten
+## 1.1. Alfabé laten
 
 Nou ka sèvi épi larèstan alfabé laten pou non a fanmi a moun, é non a lari.
 
@@ -59,7 +59,7 @@ Nou ka mofrazé non a moun ki ka maké épi dòt lalfabé, épi alfabé laten
 Vladimiw Poutine, Mwamaw Kadhafi
 ```
 
-## 2.2. Aksan
+## 1.2. Aksan
 
 Sèl aksan ki ni sé monté "´" , é désann "`" 
 Kréyòl Gwadloup pa ka sèvi épi pon dòt aksan.
