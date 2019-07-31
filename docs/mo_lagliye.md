@@ -15,5 +15,5 @@ Magrésa, souvantfwa, dabòpouyonn, anfinaldèkont...
 # 3.3 Mo pou kèsyon ka fè yonn
 
 ```
-Kibiten ..? Kijan ..? Kimoun ..?
+Kibiten ..? Kijan ..? Kimoun ..? Akimoman ? 
 ```
