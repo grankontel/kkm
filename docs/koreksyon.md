@@ -36,18 +36,18 @@ Pati an-nou (Pati an mwen é vou)
 Annou pati
 ```
 
-## 5.3 "Manman mwen" oben "Manm'an-mwen" ?
+## 5.3 "Manman mwen" oben "Manman-mwen" ?
 
-Davwa nou chwazi maké sé pwonon-la on jan, nou ka rèsté adan menm larèl-la. Kidonk nou ka maké
+Nou ka maké
 
-| Manman          | Papa        |
-|-----------------|-------------|
-| Manm'an-mwen    | Pap'an-mwen |
-| Manm'an-w       | Pap'a-w     |
-| Manm'an-y       | Pap'a-y     |
-| Manm'an-nou     | Pap'an-nou  |
-| Manm'an-zòt     | Pap'a-zòt   |
-| Manm'an-yo      | Pap'a-yo    |
+| Manman         | Papa        |
+|----------------|-------------|
+| Manman-mwen    | Pap'an-mwen |
+| Manman-w       | Papa-w      |
+| Manman-y       | Papa-y      |
+| Manman-nou     | Pap'an-nou  |
+| Manman-zòt     | Papa-zòt    |
+| Manman-yo      | Papa-yo     |
 
 ## 5.4 "pon" oben "p'on" ?
 
