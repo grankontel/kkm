@@ -3,7 +3,7 @@
 ## 3.1 Lokalizasyon, onsèl mo
 
 ```
-Anho, anba, andidan, akoté, isidan, kotésit...
+Anho, anba, andidan, anmitan, akoté, isidan, kotésit...
 ```
 
 # 3.2 Molakòl, onsèl mo
@@ -15,5 +15,11 @@ Magrésa, souvantfwa, dabòpouyonn, anfinaldèkont...
 # 3.3 Mo pou kèsyon ka fè yonn
 
 ```
-Kibiten ..? Kijan ..? Kimoun ..? Akimoman ? 
+Kibiten ..? Kijan ..? Kimoun ..? Aki moman ? 
+```
+
+# 3.4 É osi...
+
+```
+andanjé, anbistankwen...
 ```
