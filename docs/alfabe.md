@@ -3,7 +3,7 @@
 Kréyòl pa ka sévi épi tout alfabé laten la. Ni dé lèt nou pa sèvi épi-yo : Q é X.
 Lè nou ka klasé mo, nou ka suiv alfabé-lasa.
 
-A B Ch D E F G H I J K L M N O P R S T U V W Y Z
+A B C D E F G H I J K L M N O P R S T U V W Y Z
 
 Maké a kréyòl Gwadloup bazé asi on sistèm fonétik. Mi, pou chak son nou ka tann, ki jan nou ka maké-y.
 
