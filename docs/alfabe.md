@@ -1,5 +1,10 @@
 # 1. Alfabé
 
+Kréyòl pa ka sévi épi tout alfabé laten la. Ni dé lèt nou pa sèvi épi-yo : Q é X.
+Lè nou ka klasé mo, nou ka suiv alfabé-lasa.
+
+A B C D E F G H I J K L M N O P R S T U V W Y Z
+
 Maké a kréyòl Gwadloup bazé asi on sistèm fonétik. Mi, pou chak son nou ka tann, ki jan nou ka maké-y.
 
 | Son                 | maké | Majiskil | Kon adan           |
@@ -47,7 +52,7 @@ Lèt ki an italik, sé lèt nou pa ka gyè sèvi èvè-yo.
 
 ## 1.1. Alfabé laten
 
-Nou ka sèvi épi larèstan alfabé laten pou non a fanmi a moun, é non a lari.
+Nou ka sèvi épi tout alfabé laten pou non a fanmi a moun, é non a lari.
 
 ```
 Pòl Naprix, konséyé réjyonal
