@@ -1,4 +1,4 @@
-# 6. Posésyon é Pwonom
+# 6. Posésyon é Pwonon
 
 Gwadloup ni on ti mo ki la pou lyanné non-la é détèwminan a-y, kidonk nòwmalman ou pa bouzwen tilarèl.  
 Men nou konstaté sa pi fasil li kréyòl-la lawvwè ni on tilarèl. Kidonk nou ka mèt yonn.
@@ -15,7 +15,7 @@ Men nou konstaté sa pi fasil li kréyòl-la lawvwè ni on tilarèl. Kidonk nou 
 | a-yo    | a-yo la              | a-yo lasa    |
 
 
-## 6.2.	Pwonom
+## 6.2.	Pwonon
 
 | onsèl    | onsèl absan / plizyè | èspésyalman   |
 | ---------| ---------------------|---------------|
@@ -26,7 +26,7 @@ Men nou konstaté sa pi fasil li kréyòl-la lawvwè ni on tilarèl. Kidonk nou 
 | ta-zòt   | ta-zòt la            | ta-zòt lasa   |
 | ta-yo    | ta-yo la             | ta-yo lasa    |
 
-# 7 Pwonom endirèk
+# 7 Pwonon endirèk
 
 * ban-mwen
 * ba-w
