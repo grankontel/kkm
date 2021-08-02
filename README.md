@@ -4,6 +4,9 @@ Règlèman pou sav kijan nou ka korijé kréyòl aka Grankontèl.
 
 [![Documentation Status](https://readthedocs.org/projects/korije-kreyol-make/badge/?version=latest)](https://korije-kreyol-make.readthedocs.io/fr/latest/?badge=latest)
 
+## Gadé vwè
+
+Pou sa ka chèché on vèwsyon yo pé li a dokimantasyon-lasa, zò pé touvé on vèwsyon lizib la : [KKM asi ReadTheDocs](https://korije-kreyol-make.readthedocs.io/fr/latest/)
 
 ## Kontribisyon
 
