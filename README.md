@@ -2,7 +2,7 @@
 
 Règlèman pou sav kijan nou ka korijé kréyòl aka Grankontèl.
 
-|docs|
+[![Documentation Status](https://readthedocs.org/projects/korije-kreyol-make/badge/?version=latest)](https://korije-kreyol-make.readthedocs.io/fr/latest/?badge=latest)
 
 
 ## Kontribisyon
